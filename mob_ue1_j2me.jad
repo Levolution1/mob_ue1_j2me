@@ -1,0 +1,7 @@
+MIDlet-1: ue1Midlet,,ue1Midlet
+MIDlet-Jar-URL: mob_ue1_j2me.jar
+MIDlet-Name: mob_ue1_j2me Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
